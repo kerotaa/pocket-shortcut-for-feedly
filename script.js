@@ -36,7 +36,7 @@
 // @name Add Pocket on Feedly\n\
 // @namespace 4cEyiXLEOEsH\n\
 // @key Shift+p\n\
-// @include http://www.feedly.com/*\n\
+// @include http://cloud.feedly.com/*\n\
 // ==/UserScript==\n\
 ';
 
